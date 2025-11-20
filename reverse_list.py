@@ -14,6 +14,6 @@ def reverse_list(list):
         start += 1
         end -= 1
 
-example = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-reverse_list(example)
-print(example)
+#example = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+#reverse_list(example)
+#print(example)
